@@ -12,7 +12,7 @@ public class LandscapeApp extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Paysage avec JavaFX");
+        primaryStage.setTitle("Paysage  JavaFX");
 
         // Créer un canevas pour dessiner
         Canvas canvas = new Canvas(800, 600);
