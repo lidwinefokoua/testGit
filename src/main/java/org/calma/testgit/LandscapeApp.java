@@ -60,6 +60,10 @@ public class LandscapeApp extends Application {
         gc.fillOval(90, 320, 60, 60);
         gc.fillOval(140, 320, 60, 60);
         gc.fillOval(190, 320, 60, 60);
+
+        // Dessiner un lac
+        gc.setFill(Color.DEEPSKYBLUE);
+        gc.fillOval(300, 450, 200, 100);
     }
 
     public static void main(String[] args) {

@@ -62,7 +62,7 @@
                         <configuration>
 <!--                            <mainClass>org.calma.testgit/org.calma.testgit.HelloApplication</mainClass>-->
 <!--                            <mainClass>org.calma.testgit.paysage.Image</mainClass>-->
-                            <mainClass>org.calma.testgit.paysage.Image</mainClass>
+                            <mainClass>org.calma.testgit.LandscapeApp</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
